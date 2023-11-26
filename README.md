@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaiharan
-- 👀 I’m interested in Codes and COntent Creation
+- 👀 I’m interested in Codes and Content Creation
 - 🌱 I’m currently learning Web Frameworks
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me 👇
