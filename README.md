@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaiharan
 - 👀 I’m interested in Codes and Content Creation
-- 🌱 I’m currently learning Web Frameworks
+- 🌱 I’m currently learning Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me 👇
 
