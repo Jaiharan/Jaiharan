@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jaiharan
 
 Aspiring Software Developer
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" align="right" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" align="right" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
 - 👋 Hi, I’m [@Jaiharan](https://jaiharan.github.io/).
 - 👀 I’m interested in Codes and Content Creation
 - 🌱 I’m currently learning Data Structures & Algorithms
