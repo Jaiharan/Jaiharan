@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm Jaiharan
 
 Aspiring Software Developer
-<div class="tenor-gif-embed" data-postid="9810614" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/work-computer-gif-9810614">Work Computer GIF</a>from <a href="https://tenor.com/search/work-gifs">Work GIFs</a></div>
-- 👋 Hi, I’m [@Jaiharan](https://jaiharan.github.io/).
+<img align="right" width="370" height="290" src="https://github.com/Jaiharan/Jaiharan/assets/136414923/1ae0d703-b059-4a2e-91b3-35e98a81b18b">
+
+- 👋 Hi, I’m [@Jaiharan](https://jaiharan.github.io/)
 - 👀 I’m interested in Codes and Content Creation
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on Open Source Projects
