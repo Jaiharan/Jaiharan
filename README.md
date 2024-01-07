@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me
 
-  
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Jaiharan_725) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaiharan-s/)
 
 ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966](https://github.com/Jaiharan/Jaiharan/assets/136414923/7aab8410-ef52-4684-b175-2b78f2b9e123)
