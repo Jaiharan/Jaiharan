@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jaiharan
 
 Aspiring Software Developer
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" align="right" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+<div class="tenor-gif-embed" data-postid="9810614" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/work-computer-gif-9810614">Work Computer GIF</a>from <a href="https://tenor.com/search/work-gifs">Work GIFs</a></div>
 - 👋 Hi, I’m [@Jaiharan](https://jaiharan.github.io/).
 - 👀 I’m interested in Codes and Content Creation
 - 🌱 I’m currently learning Data Structures & Algorithms
