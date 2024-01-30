@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jaiharan
 
-Aspiring Software Developer
+Aspiring Software Development Engineer
 <img align="right" width="370" height="290" src="https://github.com/Jaiharan/Jaiharan/assets/136414923/1ae0d703-b059-4a2e-91b3-35e98a81b18b">
 - 👋 Hi, I’m [@Jaiharan](https://jaiharan.github.io/)
 - 👀 I’m interested in Codes and Content Creation
