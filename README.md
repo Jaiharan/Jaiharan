@@ -17,6 +17,8 @@ Aspiring Software Development Engineer
 
 ![](https://komarev.com/ghpvc/?username=Jaiharan)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Jaiharan_S?ext=contest&theme=dark)](https://leetcode.com/Jaiharan_S)
+
 <!---
 Jaiharan/Jaiharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
