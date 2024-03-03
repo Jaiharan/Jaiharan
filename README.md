@@ -5,7 +5,7 @@ Aspiring Software Development Engineer
 - 👋 Hi, I’m [@Jaiharan](https://jaiharan.github.io/)
 - 👀 I’m interested in Codes and Games
 - 🌱 I’m currently learning Data Structures & Algorithms
-- 😅 Plz... Anybody help me to get placed in FAANG
+- 😅 Need mentor who help me to get placed in FAANG
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me 👇
 
