@@ -33,7 +33,7 @@ Software Development Engineer
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jaiharan/Jaiharan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jaiharan/Jaiharan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaiharan&theme=dark&show_icons=true&&hide=issues,contribs)
+![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaiharan&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Jaiharan_S?ext=contest&theme=dark)](https://leetcode.com/Jaiharan_S)
 
